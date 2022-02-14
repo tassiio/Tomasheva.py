@@ -1,0 +1,7 @@
+print("Введите 4 числа:")
+a = float(input())
+b = float(input())
+c = float(input())
+d = float(input())
+final = (a + b)/(c + d)
+print(f'{final:.{3}f}')
