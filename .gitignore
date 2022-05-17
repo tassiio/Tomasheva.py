@@ -1,5 +1,11 @@
 **/.idea
 **/venv
+<<<<<<< HEAD
 /homework_18/.ipynb_checkpoints/
 /homework_17/.ipynb_checkpoints/
 *.docx
+=======
+/homework_18/.ipynb_checkpoints
+/homework_17/.ipynb_checkpoints
+*.docx
+>>>>>>> 88c796f190b946875955e53d62f47fc64e796386
