@@ -1,3 +1,5 @@
 **/.idea
 **/venv
-/.ipynb_checkpoints/*
+/homework_18/.ipynb_checkpoints
+/homework_17/.ipynb_checkpoints
+*.docx
